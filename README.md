@@ -1,0 +1,2 @@
+# SGA
+Simply Genetic Algorithm
